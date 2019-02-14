@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EmployeeBook/v15
+/EmployeeBook/bin/x86/Debug
+/EmployeeBook/obj
